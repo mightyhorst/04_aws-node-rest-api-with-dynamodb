@@ -14,5 +14,11 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "scripts": {
+    "lint": "echo \"todo\"",
+    "test": "echo \"todo\"",
+    "build": "echo \"todo\"",
+    "deploy": "sls deploy"
   }
 }
